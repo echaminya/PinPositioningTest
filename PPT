@@ -1,0 +1,80 @@
+[
+  {
+    "Rhino_object": "point",
+    "DEVELOPER_DEBUGGING_INFORMATION_ONLY": "Use the Rhino \"What\" command.",
+    "Runtime_serial_number": 5,
+    "name": "H120-FSH-Unit 10",
+    "id": "E02366C3-4754-499a-A88A-5B9E2A5EC88C",
+    "layer_index": 0,
+    "render_material_index": -1,
+    "ON_Point": [1130.4576282081352, 623.82667234150995, 1.1368683772161603e-13]
+  },
+  {
+    "Rhino_object": "point",
+    "DEVELOPER_DEBUGGING_INFORMATION_ONLY": "Use the Rhino \"What\" command.",
+    "Runtime_serial_number": 16,
+    "name": "H120-FSH-Unit 9",
+    "id": "2B31D6DE-53ED-4556-9588-2F0ADC39F384",
+    "layer_index": 0,
+    "render_material_index": -1,
+    "ON_Point": [1130.4576282081352, 6206.0601814190504, 1.1368683772161603e-13]
+  },
+  {
+    "Rhino_object": "point",
+    "DEVELOPER_DEBUGGING_INFORMATION_ONLY": "Use the Rhino \"What\" command.",
+    "Runtime_serial_number": 17,
+    "name": "H120-FSH-Unit 8",
+    "id": "30E29FC9-BFDD-4eb5-A4DD-F46147108D73",
+    "layer_index": 0,
+    "render_material_index": -1,
+    "ON_Point": [1130.4576282081352, 10985.198813478513, 1.1368683772161603e-13]
+  },
+  {
+    "Rhino_object": "point",
+    "DEVELOPER_DEBUGGING_INFORMATION_ONLY": "Use the Rhino \"What\" command.",
+    "Runtime_serial_number": 28,
+    "name": "H120-FSH-Unit 7",
+    "id": "BBC98C6C-59BD-4f7d-8635-A8EBC26EA299",
+    "layer_index": 0,
+    "render_material_index": -1,
+    "ON_Point": [1130.4576282081352, 15744.772038518044, 1.1368683772161603e-13]
+  },
+  {
+    "Rhino_object": "point",
+    "DEVELOPER_DEBUGGING_INFORMATION_ONLY": "Use the Rhino \"What\" command.",
+    "Runtime_serial_number": 29,
+    "name": "H120-FSH-Unit 6",
+    "id": "693B02A6-D331-4b08-BDA8-23F00B5A1ABD",
+    "layer_index": 0,
+    "render_material_index": -1,
+    "ON_Point": [1130.4576282081352, 20669.57759754092, 1.1368683772161603e-13]
+  },
+  {
+    "Rhino_object": "point",
+    "DEVELOPER_DEBUGGING_INFORMATION_ONLY": "Use the Rhino \"What\" command.",
+    "Runtime_serial_number": 40,
+    "name": "H120-FSH-Unit 5",
+    "id": "8E03C10E-1FC2-47f9-B526-EAAE2FB93CC3",
+    "layer_index": 0,
+    "render_material_index": -1,
+    "ON_Point": [1130.4576282081352, 24631.413401234444, 1.1368683772161603e-13]
+  },
+  {
+    "Rhino_object": "point",
+    "DEVELOPER_DEBUGGING_INFORMATION_ONLY": "Use the Rhino \"What\" command.",
+    "Runtime_serial_number": 41,
+    "name": "H120-FSH-Unit 4",
+    "id": "6C295E59-6A9B-4371-9B78-C739E318F372",
+    "layer_index": 0,
+    "render_material_index": -1,
+    "ON_Point": [1130.4576282081352, 29960.632440609141, 1.1368683772161603e-13]
+  },
+  {
+    "Rhino_object": "point",
+    "DEVELOPER_DEBUGGING_INFORMATION_ONLY": "Use the Rhino \"What\" command.",
+    "Runtime_serial_number": 52,
+    "name": "H120-FSH-Unit 3",
+    "id": "A79A1EE8-B306-4220-911D-E86F90FABC4D",
+    "layer_index": 0,
+    "render_material_index": -1,
+    "ON_Point": [113
